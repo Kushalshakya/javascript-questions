@@ -22,4 +22,4 @@ Qn.9 Write a javascript function that reverse a number
 
 Qn.10 Given a string, reverse each word in the sentence
 
-Qn.11 Write a javascript functin that accepts a string as a parameter and converts the first letter of each word of the string in uppercase
+Qn.11 Write a javascript function that accepts a string as a parameter and converts the first letter of each word of the string in uppercase
